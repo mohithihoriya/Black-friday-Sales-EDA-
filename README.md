@@ -2,7 +2,10 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
 My Findings
+
 1)How to predict the purchase amount of customer against various products.
+
 2)Which age group purchased more
+
 3)Which products purchased according to product category
   and many more. 
